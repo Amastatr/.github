@@ -12,4 +12,7 @@ One discipline runs through all three: stamps fire once, on send only, and every
 
 [UserStamp](https://github.com/Amastatr/UserStamp) tags each message with the team member sending it, for shared subscriptions.
 
-All three run on ChatGPT, Claude, Gemini, and Grok, and load unpacked from their repositories.                  
+All three run on ChatGPT, Claude, Gemini, and Grok, and load unpacked from their repositories.
+
+## About the Haus
+Amastatr Innovation Haus is the work of two brothers from Texas, from making small digital tools, to innovating armor for the body and building archives for the mind. These extensions are our first product, made for a limitation we saw in the digital world and one we lift where we can, giving individuals and companies more precision in how AI tools read their information.
